@@ -4,4 +4,14 @@
   <h1>👨🏻‍💻 Cibersecurity Projects 🔒</h1>
 </div>
 
-![parroterminator](https://user-images.githubusercontent.com/103221169/210122182-2be791d2-3e4d-4d29-8a5b-0e4cf14830ea.png)
+<h2>🔎 What can you find here:</h2>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jaime-lópez-gastaca/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.hackthebox.com/home/users/profile/784801">
+    <img src="https://img.shields.io/badge/-Hack%20the%20box-black?style=for-the-badge&logo=hackthebox"/>
+  <a href="https://discord.gg/8CUvgMxrW5">
+    <img src="https://img.shields.io/badge/-discord-white?style=for-the-badge&logo=discord"/>
+  <a href="https://twitter.com/Kermit96_">
+    <img src="https://img.shields.io/badge/-discord-white?style=for-the-badge&logo=discord"/>
+</div>
