@@ -4,7 +4,7 @@
   <h1>👨🏻‍💻 Cibersecurity Projects 🔒</h1>
 </div>
 
-<h2>🔎💻 You can find me here: </h2>
+<h2>🔎 You can find me here: </h2>
 <div>
   <a href="https://www.linkedin.com/in/jaime-lópez-gastaca/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"/>
@@ -26,4 +26,25 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/Flipper-zero-bad-USB">
     <img src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png"width="40" height="40"/>&nbsp;
+</div>
+
+<h2>🛠 Tools I use: </h2>
+<div>
+
+<img src="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/KermitPurple96/trash/blob/main/linux%20(1).png" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/KermitPurple96/trash/blob/main/xmap.png" width="40" height="40"/>&nbsp;
+
 </div>
