@@ -49,6 +49,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Webmin_Logo.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg" width="140" height="40"/>&nbsp;
-
 </div>
+    
+<h2>📊 Statistics: </h2>
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KermitPurple96&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KermitPurple96&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
