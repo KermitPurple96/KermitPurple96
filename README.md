@@ -24,6 +24,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/config">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="40" height="40"/>&nbsp;
-  <a href="https://discord.gg/8CUvgMxrW5">
-    <img src=""/>
+  <a href="https://github.com/KermitPurple96/Flipper-zero-bad-USB">
+    <img src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png"width="40" height="40"/>&nbsp;
 </div>
