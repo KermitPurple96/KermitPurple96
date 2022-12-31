@@ -33,6 +33,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/KermitPurple96/trash/blob/main/linux%20(1).png" width="40" height="40"/>&nbsp;
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="60" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="40" height="40"/>&nbsp;
@@ -43,7 +44,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Apache_HTTP_Server_Logo_%282016%29.svg" width="70" height="40"/>&nbsp;
   <img src="https://miro.medium.com/max/640/1*0G5zu7CnXdMT9pGbYUTQLQ.webp" width="90" height="40"/>&nbsp;
-  <img src="" width="40" height="40"/>&nbsp;
-  <img src="" width="40" height="40"/>&nbsp;
+  <img src="https://en.wikipedia.org/wiki/Webmin#/media/File:Webmin_Logo.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/KermitPurple96/trash/blob/main/xmap.png" width="40" height="40"/>&nbsp;
 </div>
