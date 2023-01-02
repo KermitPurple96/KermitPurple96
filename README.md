@@ -19,20 +19,20 @@
 <h2>🔭 What can you find here: </h2>
 <div>
   <a href="https://github.com/KermitPurple96/scripts/tree/main/Python">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="40" height="40"/>&nbsp;
-  <a href="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/>&nbsp;
+  <a href="https://github.com/KermitPurple96/scripts/tree/main/Bash">
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/config">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Parrot_Logo.png" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/Flipper-zero-bad-USB">
-    <img src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png"width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flipper_zero.webp" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>🛠 Languajes I use: </h2>
+<h2>⌨ Languajes I use: </h2>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/max/640/1*0G5zu7CnXdMT9pGbYUTQLQ.webp" width="90" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="60" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
