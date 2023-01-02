@@ -44,17 +44,17 @@
     
 <h2>🛠 Tools and services that I use: </h2>
 <div>
-  <img src="https://github.com/KermitPurple96/trash/blob/main/linux%20(1).png" width="40" height="40"/>&nbsp;
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>&nbsp;
-  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="150" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Apache_HTTP_Server_Logo_%282016%29.svg" width="70" height="40"/>&nbsp;
-  <img src="https://github.com/KermitPurple96/trash/blob/main/xmap.png" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Webmin_Logo.svg" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg" width="140" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/linux%20(1).png" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/azure.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Git-Icon-1788C.png" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Docker_(container_engine)_logo.svg" width="150" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Vmware_workstation_16_icon.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Apache_HTTP_Server_Logo_(2016).svg" width="70" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/xmap.png" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Webmin_Logo.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/WordPress_blue_logo.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/e46c7dd1b17279d66a68e24c2cd4ece5cc91ea91/Moodle-logo.svg" width="140" height="40"/>&nbsp;
 </div>
     
 <h2>📊 Statistics: </h2>
