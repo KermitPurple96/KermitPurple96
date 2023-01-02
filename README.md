@@ -30,14 +30,14 @@
 
 <h2>⌨ Languajes I use: </h2>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="40" height="40"/>&nbsp;
-  <img src="https://miro.medium.com/max/640/1*0G5zu7CnXdMT9pGbYUTQLQ.webp" width="90" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flask.webp" width="90" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="60" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="70" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/MySQL-Logo.png" width="60" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/CSS3_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Javascript_Logo.png" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/PHP-logo.svg" width="70" height="40"/>&nbsp;
 </div>
     
     
