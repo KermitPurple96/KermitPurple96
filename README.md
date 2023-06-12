@@ -36,16 +36,12 @@
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/PHP-logo.svg" width="70" height="40"/>&nbsp;
 </div>
 
-<h2>⌨ Languajes I use: </h2>
+<h2>⌨ languages that I also use </h2>
 <div>
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flask.webp" width="90" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/MySQL-Logo.png" width="60" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/CSS3_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Javascript_Logo.png" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/PHP-logo.svg" width="70" height="40"/>&nbsp;
 </div>
     
     
@@ -53,9 +49,8 @@
 <h2>🛠 Tools and services that I use: </h2>
 <div>
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/linux%20(1).png" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Git-Icon-1788C.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Docker_(container_engine)_logo.svg" width="170" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Git-Icon-1788C.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Vmware_workstation_16_icon.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Apache_HTTP_Server_Logo_(2016).svg" width="70" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/compose.png" width="40" height="40"/>&nbsp;
