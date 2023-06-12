@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/linux%20(1).png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Git-Icon-1788C.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Docker_(container_engine)_logo.svg" width="150" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Docker_(container_engine)_logo.svg" width="170" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Vmware_workstation_16_icon.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Apache_HTTP_Server_Logo_(2016).svg" width="70" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/compose.png" width="40" height="40"/>&nbsp;
