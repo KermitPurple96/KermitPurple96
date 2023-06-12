@@ -18,7 +18,7 @@
     
 </div>
 
-<h2>🔭 What can you find here: </h2>
+<h2>🔭 My projects: </h2>
 <div>
   <a href="https://github.com/KermitPurple96/scripts/tree/main/Python">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/>&nbsp;
@@ -28,6 +28,8 @@
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Parrot_Logo.png" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/Flipper-zero-bad-USB">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flipper_zero.webp" width="40" height="40"/>&nbsp;
+   <a href="https://github.com/KermitPurple96/minihack">
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flask.webp" width="90" height="40"/>&nbsp;
 </div>
 
 <h2>⌨ Languajes I use: </h2>
