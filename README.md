@@ -1,7 +1,7 @@
 
-
-<div id="header" align="center">
-  <h1>👨🏻‍💻 Cibersecurity Projects 🔒</h1>
+<h2>👨🏻‍💻 About me: </h2>
+<div>
+  <a>>Hello! my name is Kermit and I started my career in cybersecurity in 2022, here I share projects, my work environment and tools developed by me to perform pentesting.</a
 </div>
 
 <h2>🔎 You can find me here: </h2>
