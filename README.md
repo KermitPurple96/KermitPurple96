@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/-Hack%20the%20box-black?style=for-the-badge&logo=hackthebox"/>
   <a href="https://discord.gg/8CUvgMxrW5">
     <img src="https://img.shields.io/badge/-discord-white?style=for-the-badge&logo=discord"/>
-  <a href="https://twitter.com/Kermit96_">
-    <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"/>
     
     
 </div>
