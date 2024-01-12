@@ -6,8 +6,6 @@
 
 <h2>🔎 You can find me here: </h2>
 <div>
-  <a href="https://www.linkedin.com/in/jaime-lópez-gastaca/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"/>
   <a href="https://www.hackthebox.com/home/users/profile/784801">
     <img src="https://img.shields.io/badge/-Hack%20the%20box-black?style=for-the-badge&logo=hackthebox"/>
   <a href="https://discord.gg/8CUvgMxrW5">
