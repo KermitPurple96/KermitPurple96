@@ -18,6 +18,8 @@
 <div>
   <a href="https://github.com/KermitPurple96/scripts/tree/main/Python">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/>&nbsp;
+  <a href="https://github.com/KermitPurple96/powershell">
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/powershell.png" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/scripts/tree/main/Bash">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/i3-alacrity">
