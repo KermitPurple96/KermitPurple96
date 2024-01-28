@@ -23,7 +23,7 @@
   <a href="https://github.com/KermitPurple96/scripts/tree/main/Bash">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/i3-alacrity">
-    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Parrot_Logo.png" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/kali.png" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/Flipper-zero-bad-USB">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flipper_zero.webp" width="40" height="40"/>&nbsp;
    <a href="https://github.com/KermitPurple96/minihack">
