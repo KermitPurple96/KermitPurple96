@@ -31,7 +31,7 @@
    <a href="https://github.com/KermitPurple96/minihack/tree/main/dockerfiles">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Docker_(container_engine)_logo.svg" width="170" height="40"/>&nbsp;
    <a href="https://github.com/KermitPurple96/work/tree/main/prueba">
-    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/PHP-logo.svg" width="70" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/PHP-logo.svg" width="80" height="35"/>&nbsp;
 </div>
 
 <h2>⌨ languages that I also use </h2>
