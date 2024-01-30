@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/HTML5_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/CSS3_logo_and_wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Javascript_Logo.png" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/imagen_2023-09-24_170551414.png" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/latex.png" width="70" height="40"/>&nbsp;
   
 </div>
     
