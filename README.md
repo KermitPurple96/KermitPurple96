@@ -47,15 +47,12 @@
 <h2>🛠 Tools and services that I use: </h2>
 <div>
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/linux%20(1).png" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Git-Icon-1788C.png" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Vmware_workstation_16_icon.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Apache_HTTP_Server_Logo_(2016).svg" width="70" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/imagen_2024-01-30_140411266.png" width="70" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/compose.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/azure.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Webmin_Logo.svg" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/WordPress_blue_logo.svg" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/e46c7dd1b17279d66a68e24c2cd4ece5cc91ea91/Moodle-logo.svg" width="140" height="40"/>&nbsp;
+  
 </div>
     
 <h2>📊 Statistics: </h2>
