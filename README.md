@@ -6,7 +6,7 @@
 
 <h2>🔎 You can find me here: </h2>
 <div>
-  <a href="https://www.hackthebox.com/home/users/profile/784801">
+  <a href="https://app.hackthebox.com/profile/784801">
     <img src="https://img.shields.io/badge/-Hack%20the%20box-black?style=for-the-badge&logo=hackthebox"/>
   <a href="https://discord.gg/8CUvgMxrW5">
     <img src="https://img.shields.io/badge/-discord-white?style=for-the-badge&logo=discord"/>
