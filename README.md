@@ -15,7 +15,7 @@
 <h2>🔭 Click to see my projects: </h2>
 <div>
   <a href="https://github.com/KermitPurple96/exercises">
-    <img src="https://raw.githubusercontent.com/KermitPurple96/img/main/c%2B%2Blogo.jpg" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KermitPurple96/img/main/cpluss.png" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/scripts/tree/main/Python">
     <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/>&nbsp;
   <a href="https://github.com/KermitPurple96/powershell">
