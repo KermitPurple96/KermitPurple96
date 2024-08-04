@@ -53,7 +53,6 @@
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/imagen_2024-01-30_140411266.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/compose.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/azure.svg" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Webmin_Logo.svg" width="40" height="40"/>&nbsp;
   
 </div>
     
