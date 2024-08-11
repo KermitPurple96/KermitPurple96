@@ -59,7 +59,3 @@
 <h2>📊 Statistics: </h2>
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KermitPurple96&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-  
