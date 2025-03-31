@@ -1,6 +1,4 @@
 
-<h2>👨🏻‍💻 About me: </h2>
-
 <h2>🔎 You can find me here: </h2>
 <div>
   <a href="https://app.hackthebox.com/profile/784801">
