@@ -42,7 +42,6 @@
 <h2>🛠 Tools and services that I use: </h2>
 <div>
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/linux%20(1).png" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Apache_HTTP_Server_Logo_(2016).svg" width="70" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/imagen_2024-01-30_140411266.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/compose.png" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/azure.svg" width="40" height="40"/>&nbsp;
