@@ -4,21 +4,35 @@
 
 ## 🔭 Click to see my projects:
 
-| | | | | | | | |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/>](https://github.com/KermitPurple96/scripts/tree/main/Python) | [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/powershell.png" width="40" height="40"/>](https://github.com/KermitPurple96/powershell) | [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/>](https://github.com/KermitPurple96/scripts/tree/main/Bash) | [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/kali.png" width="50" height="50"/>](https://github.com/KermitPurple96/i3-alacrity) | [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flipper_zero.webp" width="40" height="40"/>](https://github.com/KermitPurple96/Flipper-zero-bad-USB) | [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flask.webp" width="90" height="40"/>](https://github.com/KermitPurple96/minihack) | [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Docker_(container_engine)_logo.svg" width="170" height="40"/>](https://github.com/KermitPurple96/minihack/tree/main/dockerfiles) | [<img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/PHP-logo.svg" width="70" height="40"/>](https://github.com/KermitPurple96/work/tree/main/prueba) |
+<table><tr>
+<td><a href="https://github.com/KermitPurple96/scripts/tree/main/Python"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Python_logo_01.svg" width="40" height="40"/></a></td>
+<td><a href="https://github.com/KermitPurple96/powershell"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/powershell.png" width="40" height="40"/></a></td>
+<td><a href="https://github.com/KermitPurple96/scripts/tree/main/Bash"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Bash_Logo_Colored.svg" width="40" height="40"/></a></td>
+<td><a href="https://github.com/KermitPurple96/i3-alacrity"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/kali.png" width="50" height="50"/></a></td>
+<td><a href="https://github.com/KermitPurple96/Flipper-zero-bad-USB"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flipper_zero.webp" width="40" height="40"/></a></td>
+<td><a href="https://github.com/KermitPurple96/minihack"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/flask.webp" width="90" height="40"/></a></td>
+<td><a href="https://github.com/KermitPurple96/minihack/tree/main/dockerfiles"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Docker_(container_engine)_logo.svg" width="170" height="40"/></a></td>
+<td><a href="https://github.com/KermitPurple96/work/tree/main/prueba"><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/PHP-logo.svg" width="70" height="40"/></a></td>
+</tr></table>
 
 ## ⌨ languages that I also use
 
-| | | | | |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/MySQL-Logo.png" width="60" height="40"/> | <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/HTML5_logo_and_wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/CSS3_logo_and_wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Javascript_Logo.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/latex.png" width="80" height="35"/> |
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/MySQL-Logo.png" width="60" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/HTML5_logo_and_wordmark.svg" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/CSS3_logo_and_wordmark.svg" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/Javascript_Logo.png" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/latex.png" width="80" height="35"/></td>
+</tr></table>
 
 ## 🛠 Tools and services that I use:
 
-| | | | |
-|:-:|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/linux%20(1).png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/imagen_2024-01-30_140411266.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/compose.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/azure.svg" width="40" height="40"/> |
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/linux%20(1).png" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/imagen_2024-01-30_140411266.png" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/compose.png" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/KermitPurple96/trash/main/azure.svg" width="40" height="40"/></td>
+</tr></table>
 
 ## 📊 Statistics:
 
